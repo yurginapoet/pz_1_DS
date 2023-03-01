@@ -1,0 +1,2 @@
+D:\! Progging\C++\pz1_kris_dev\Debug\pz1_kris_dev.exe
+D:\! Progging\C++\pz1_kris_dev\Debug\pz1_kris_dev.pdb
