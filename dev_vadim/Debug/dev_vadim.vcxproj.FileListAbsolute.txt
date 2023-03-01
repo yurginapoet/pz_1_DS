@@ -1,0 +1,2 @@
+D:\Git_prod\pz_1_DS\dev_vadim\Debug\dev_vadim.exe
+D:\Git_prod\pz_1_DS\dev_vadim\Debug\dev_vadim.pdb
